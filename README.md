@@ -34,7 +34,7 @@ git commit -m 'change file' : 提交并更改文件
 ***git push origin master*** : 推送到 master 分支 (push后可以加 -u : 代表以后书写git push 并回车, 默认推送到 master 分支)
 
 
-## 分支
+## **分支**
 可以创建分支,切换分支.
 
 切换分支一定要提交,否则会把当前分支带到另一个分支中.
@@ -42,6 +42,7 @@ git commit -m 'change file' : 提交并更改文件
 ## 代码合并
 
 
+## 拉取代码
 
 
 
